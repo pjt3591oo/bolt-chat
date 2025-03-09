@@ -5,6 +5,7 @@ import { ChatMessage } from './components/ChatMessage';
 import { ChatInput } from './components/ChatInput';
 import { MessageSquare, LogOut } from 'lucide-react';
 
+
 interface Message {
   id: string;
   content: string;
